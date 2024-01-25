@@ -32,56 +32,78 @@
 .holder-2 {
   display:flex;
 	 flex-wrap:wrap;
-	justify-content:center;
+	justify-content:space-evenly;
 	flex-direction:row-reverse;
+	align-items:center;
 }
 /* Your  Code here. */.item-1 {
     width: 100px;
     height: 100px;
+	 display: flex;
+    justify-content:space-around; 
+	background-color:red;
+}
    
 /* Your CSS Code here. */.item-2{
 	 width: 100px;
     height: 100px;
     background-color:blue;
-
+	 display: flex;
+    justify-content:space-around;
+	align-items:left;
 }
+
+	
+
+
+
 
 /* Style for item-1 */
 .item-3{ width: 100px;
     height: 100px;
     background-color: green;
-	
+	 display: flex;
+    justify-content:space-around;  
 }
+
 /* Your CSS Code here. */
 
 /* Style for item-1 */
 
-}
+
 /* Your  Code here. */.item-4 {
     width: 100px;
     height: 100px;
     background-color: green;
 	 display: flex;
-    justify-content:space-between;  
+    justify-content:space-around;  
 }
 /* Your CSS Code here. */.item-5{
 	 width: 100px;
     height: 100px;
     background-color:green;
-
+	 display: flex;
+    justify-content:space-around;  
 }
+
+
 
 /* Style for item-1 */
 .item-6{ width: 100px;
     height: 100px;
     background-color: green;
-	
+	 display: flex;
+    justify-content:space-around;  
 }
+
 .item-7{ width: 100px;
     height: 100px;
-    background-color: green;
+    background-color:green;
+	 display: flex;
+    justify-content:space-around;  
 	
 }
+
 /* Your CSS Code
 /* Your CSS Code here. */
 
