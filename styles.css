@@ -39,18 +39,14 @@
 /* Your  Code here. */.item-1 {
     width: 100px;
     height: 100px;
-	 display: flex;
-    justify-content:space-around; 
-	background-color:red;
+	 background-color:red;
+    display: flex;
+    justify-content:space-evenly;
 }
-   
 /* Your CSS Code here. */.item-2{
 	 width: 100px;
     height: 100px;
     background-color:blue;
-	 display: flex;
-    justify-content:space-around;
-	align-items:left;
 }
 
 	
@@ -62,10 +58,8 @@
 .item-3{ width: 100px;
     height: 100px;
     background-color: green;
-	 display: flex;
-    justify-content:space-around;  
-}
-
+	background-color:green; 
+	   }
 /* Your CSS Code here. */
 
 /* Style for item-1 */
@@ -75,32 +69,24 @@
     width: 100px;
     height: 100px;
     background-color: green;
-	 display: flex;
-    justify-content:space-around;  
 }
 /* Your CSS Code here. */.item-5{
 	 width: 100px;
     height: 100px;
     background-color:green;
-	 display: flex;
-    justify-content:space-around;  
+	 
 }
-
 
 
 /* Style for item-1 */
 .item-6{ width: 100px;
     height: 100px;
     background-color: green;
-	 display: flex;
-    justify-content:space-around;  
-}
+	   }
 
 .item-7{ width: 100px;
     height: 100px;
     background-color:green;
-	 display: flex;
-    justify-content:space-around;  
 	
 }
 
